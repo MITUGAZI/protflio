@@ -1,0 +1,52 @@
+body{
+    font-family: "poppins", sans-serif;
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+
+h2{
+    font-size: 40px;
+}
+faxible-content{
+    display: flex;
+    background-image: url(image/bb.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.half-width{
+    width: 40%;
+}
+img{
+    width: 10%;
+    border-radius: 50%;
+}
+
+.link{
+    text-decoration: none;
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-color: blue;
+}
+
+.specialize-head{
+    text-align: center;
+
+}
+
+.parent{
+    display: flex;
+}
+.child{
+    box-shadow: 10px 5px 40px black; 
+     margin: 2%;
+     border-radius: 0 20px px  0;
+     
+     
+
+     
+}
